@@ -121,12 +121,13 @@ namespace TextoAbierto
 
                     dt.Rows.Add(row);
                 */
+                /*
                 this.dataGridViewPresentacion.Rows[0].Cells[0].Value = Cuestionario.id;
                 this.dataGridViewPresentacion.Rows[0].Cells[0].Value = Cuestionario.numeroAleatorio;
                 this.dataGridViewPresentacion.Rows[0].Cells[0].Value = Cuestionario.pregunta;
                 this.dataGridViewPresentacion.Rows[0].Cells[0].Value = Cuestionario.descripcion;
                 this.dataGridViewPresentacion.Rows[0].Cells[0].Value = Cuestionario.imagen;
-
+                */
                 }
                 catch
                 {
